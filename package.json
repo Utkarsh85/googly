@@ -1,0 +1,30 @@
+{
+  "name": "googly",
+  "version": "1.0.0",
+  "description": "Frontend Middleware Chain Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "frontend",
+    "googly",
+    "chain",
+    "middleware"
+  ],
+  "author": "Utkarsh85",
+  "license": "MIT",
+  "dependencies": {
+    "middleware-chain": "^1.0.1",
+    "rlite-router": "^1.1.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarsh85/googly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Utkarsh85/googly/issues"
+  },
+  "homepage": "https://github.com/Utkarsh85/googly#readme"
+}
