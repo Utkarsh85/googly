@@ -15,7 +15,7 @@
   "author": "Utkarsh85",
   "license": "MIT",
   "dependencies": {
-    "middleware-chain": "^1.0.1",
+    "arr-chain": "^1.0.1",
     "rlite-router": "^1.1.3"
   },
   "devDependencies": {},
