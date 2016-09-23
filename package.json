@@ -1,6 +1,6 @@
 {
   "name": "googly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Frontend Middleware Chain Framework",
   "main": "index.js",
   "scripts": {
